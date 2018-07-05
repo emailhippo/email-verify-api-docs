@@ -654,7 +654,7 @@ Secondary Reason Codes
 	addresses will ever be read.
 
 :GreyListing:
-	:term:`Greylisting` is in operation. It is not possible to validate email boxes in real-time where greylisting is in operation.
+	:term:`Grey Listing` is in operation. It is not possible to validate email boxes in real-time where grey listing is in operation.
 
 :MailboxFull:
 	The mailbox is full.
@@ -1200,6 +1200,9 @@ returned in the :term:`HTTP` message body, :term:`HTTP` status codes are returne
 	Possible reasons: The provided license key is not valid, the provided license key has expired,
 	you have reached your quota capacity for this account,
 	this account has been disabled.
+	
+:429:
+	Too many requests. See :doc:`concurrency` for further information.
 
 :50x:
 	An error occurred on the server. Possible reasons are: license key validation failed or
