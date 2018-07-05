@@ -1,3 +1,5 @@
+.. _contact us: https://help.emailhippo.com
+
 Concurrency
 ===========
 
@@ -16,4 +18,8 @@ There are several things that it may be helpful to think about to control throug
 
 * Test your integration with representative production loads over a period of time. Monitor response codes for any 429's. If you see any 429's please reduce the rate at which your application is querying our servers.
 * For applications that can tolerate slight delays in your data processing mesh, consider using queuing infrastructure with a rate controllable processor. Your 'processor' can then schedule picking work of of the queue and submitting requests to our systems at a controllable rate.
+
+Large Throughput Requirements
+-----------------------------
+For sustained throughput more than **50 email verifications per second**, please `contact us`_ for options on private, dedicated service.
 
