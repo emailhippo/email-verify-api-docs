@@ -882,11 +882,11 @@ Email Hippo performs a PING to establish whether a domain has a working web serv
 
 .. Send Assesment:
 
-Send sssesment
+Send assessment
 ^^^^^^^^^^^^^^
 **Type info**: `sendAssess`_
 
-Email Hippo performs an assesment of the risk associated with sending email to the email address queried. The overall score is based on a number of factors including:
+Email Hippo performs an assessment of the risk associated with sending email to the email address queried. The overall score is based on a number of factors including:
 
 * If the domain is determined to be a :term:`DEA`
 * If the mailbox is verified as 'Ok' or 'Good'
