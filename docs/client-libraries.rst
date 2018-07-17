@@ -2,7 +2,7 @@
 .. _Swagger Code Generator: https://github.com/swagger-api/swagger-codegen
 .. _Swagger Schema: https://api.hippoapi.com/swagger/v3/swagger.json
 
-Client Libraries
+Client libraries
 ================
 
 .NET
@@ -10,9 +10,9 @@ Client Libraries
 Use our high performance `.NET`_ client library.
 
 
-Swagger Code Generator
+Swagger code generator
 ----------------------
-Use the `Swagger Code Generator`_ with our `Swagger Schema`_ to Generate API client code for:
+Use the `Swagger Code Generator`_ with our `Swagger Schema`_ to generate API client code for:
 
 * ActionScript
 * Bash
