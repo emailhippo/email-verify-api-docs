@@ -1,13 +1,13 @@
-.. _Endpoint Definitions: https://api.hippoapi.com/swagger/
+.. _Endpoint definitions: https://api.hippoapi.com/swagger/
 
-Usage Report
+Usage report
 ============
 Customers can access their current usage in real-time by accessing an easy to use, convenient :term:`RESTful` endpoint.
 
-Caveats and Limitations
+Caveats and limitations
 -----------------------
 * Reports only on API usage. File based uploads are not included.
 
-Getting Started
+Getting started
 ---------------
-Please see the detailed guide in the **QuotaReporting** section in the `Endpoint Definitions`_ definitions.
+Please see the detailed guide in the **QuotaReporting** section in the `Endpoint definitions`_ definitions.
