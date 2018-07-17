@@ -1,4 +1,4 @@
-Change Log
+Change log
 ==========
 
 V3.4
@@ -7,7 +7,7 @@ V3.4
 
 V3.0 (codename \'More\')
 ------------------------
-**Release Date**: May 16th, 2017
+**Release date**: May 16th, 2017
 
 * Domain, user and sub domain splitting :sup:`(new)`
 * Disposition tagging for Free-mail and Role based addresses :sup:`(new)`
@@ -28,13 +28,13 @@ V3.0 (codename \'More\')
 
 V2.5
 ----
-**Release Date**: June, 2016
+**Release date**: June, 2016
 
 * Added infrastructure identifier node :sup:`(new)`
 
 V2.0
 ----
-**Release Date**: November 2015
+**Release date**: November 2015
 
 * Deployed to global, cloud based distributed architecture
 * Added mail server location data ISO code
@@ -44,6 +44,6 @@ V2.0
 
 V1.0
 ----
-**Release Date**: Deprecated October 2015
+**Release date**: Deprecated October 2015
 
 Version no longer available or supported.
