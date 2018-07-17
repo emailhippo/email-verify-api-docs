@@ -1,11 +1,11 @@
 .. _Endpoint Details: https://api.hippoapi.com/swagger
 
-About Editions
+About editions
 ==============
 There are three editions of endpoints.
 
 * Basic
-* Block Lists
+* Block lists
 * More
 
 Each varies in functionality and performance.
@@ -24,11 +24,11 @@ This is the fastest performing end point.
 
 **Performance:** Fastest
 
-Block Lists
+Block lists
 -----------
-Performs Basic level checks plus:
+Performs basic level checks plus:
 
-* DNS Lookups
+* DNS lookups
 * Checking of email infrastructure against Email Hippo and third party lists for :term:`DEA` and spam or other anti-social behavior.
 
 **Performance:** Medium
@@ -37,7 +37,7 @@ More
 ----
 The most thorough analysis and data enrichment.
 
-Performs Basic and Block Lists levels plus:
+Performs basic and block lists levels plus:
 
 * Deep mail box verification
 * Web site PING
@@ -48,7 +48,7 @@ Performs Basic and Block Lists levels plus:
 * Hippo Trust Scoring
 
 
-**Performance:** Least Fast
+**Performance:** Least fast
 
 
-For more information on performance and features see `Endpoint Details`_.
+For more information on performance and features see `Endpoint details`_.
