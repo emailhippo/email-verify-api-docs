@@ -1,4 +1,4 @@
-.. _Signup: https://register.emailhippo.com
+.. _Signup: https://register.emailhippo.com/signup
 .. _Email Hippo: http://www.emailhippo.com
 .. _portal: https://portal.emailhippo.com
 .. _Create a support ticket: http://help.emailhippo.com/
@@ -17,7 +17,7 @@
 	**email address validation and data enrichment services**
 
 	
-Email Hippo \'More\' Documentation
+Email Hippo \'More\' documentation
 **********************************
 `Email Hippo`_ \'More\' :term:`API` services combine traditional email address verification with next generation data enrichment 
 services.
@@ -39,7 +39,7 @@ Engage:
  * `Google+`_
  * `LinkedIn`_
 
-Quick Start
+Quick start
 -----------
 
 .. 	toctree::
@@ -47,7 +47,7 @@ Quick Start
 
 	quickstart
 	
-Data Privacy
+Data privacy
 ------------
 
 .. 	toctree::
@@ -55,9 +55,9 @@ Data Privacy
 
 	data-privacy	
 
-Latest Uptime Statistics
+Latest uptime statistics
 ========================
-Live Uptime Report
+Live uptime report
 ------------------
 Report shows functional requests. Functional requests are queries containing real email addresses for validation.
 
@@ -66,7 +66,7 @@ Report shows functional requests. Functional requests are queries containing rea
 	<a href="https://share.pingdom.com/banners/20682b4b" target="_blank"><img src="https://share.pingdom.com/banners/20682b4b" alt="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" title="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" width="300" height="165" /></a>
 
 
-Live Response Time Report
+Live response time report
 -------------------------
 Report shows response times from the functional :term:`API` endpoint.
 	
@@ -81,7 +81,7 @@ Editions
 	
 	editions	
 	
-Integration Guide
+Integration guide
 -----------------
 
 .. 	toctree::
@@ -97,7 +97,7 @@ Features
 
 	features
 
-Usage Report
+Usage report
 ------------
 .. 	toctree::
 	:maxdepth: 2
@@ -120,7 +120,7 @@ Concurrency
 	
 	concurrency
 	
-Data Dictionary
+Data dictionary
 ---------------
 
 .. 	toctree::
@@ -128,14 +128,14 @@ Data Dictionary
 	
 	data-dictionary
 	
-Client Libraries
+Client libraries
 ----------------
 .. 	toctree::
 	:maxdepth: 2
 	
 	client-libraries
 
-Technical Specification
+Technical specification
 -----------------------
 
 .. 	toctree::
@@ -143,7 +143,7 @@ Technical Specification
 
 	technical-spec
 
-Change Log
+Change log
 ----------
 ..	toctree::
 	:maxdepth: 2
