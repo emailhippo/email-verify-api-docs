@@ -16,7 +16,7 @@
 
 
 
-	**Email address validation and data enrichment services**
+
 	
 Email Hippo \'More\' documentation
 **********************************
