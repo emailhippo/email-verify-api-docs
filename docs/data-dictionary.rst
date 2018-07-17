@@ -32,25 +32,25 @@
 .. _blockList: https://github.com/emailhippo/email-verify-api-v3-client-wrapper-entities/blob/master/src/Components/EmailHippo.EmailVerify.Api.V3.Entities/V_3_0_0/SpamData/BlockList.cs
 .. _trustLevelType: https://github.com/emailhippo/email-verify-api-v3-client-wrapper-entities/blob/master/src/Components/EmailHippo.EmailVerify.Api.V3.Entities/V_3_0_0/Trust/TrustLevelType.cs
 
-Data Dictionary For API V3
+Data dictionary for API v3
 ==========================
 A response is a message consisting of a standard :term:`HTTP` header and body.
 The body of the message contains the detail of the message (e.g. the :term:`JSON` data with email verification detail).
 The header of the message contains general :term:`HTTP` information such as :term:`HTTP` status codes.
 
-Open Source Common Entities
+Open source common entities
 ---------------------------
 Since v3 (code named 'More'), all common entities are avaialable on GitHub. Email Hippo uses these entities internally and exposes same over all of our v3 endpoints.
 
 For a full definition of all of our entities and types, see the GitHub repository @ `entity defintitions`_.
 
-Related Information
+Related information
 -------------------
 * For a full swagger.io based definition see the `Endpoint Definitions`_
 * View the full swagger.io compatible `WADL`_
 
 
-Response Body Content
+Response body content
 ---------------------
 Reponses are complex types. The table below shows the root fields.
 
@@ -92,9 +92,9 @@ Reponses are complex types. The table below shows the root fields.
 
 .. _Version Information:
 
-Version Information
+Version information
 ^^^^^^^^^^^^^^^^^^^
-**Type Info**: `version`_
+**Type info**: `version`_
 
 Contains details of the version and edition of API and a URL to the documentation.
 
@@ -110,9 +110,9 @@ Contains details of the version and edition of API and a URL to the documentatio
 
 .. _Meta Information:
 
-Meta Information
+Meta information
 ^^^^^^^^^^^^^^^^
-**Type Info**: `meta`_
+**Type info**: `meta`_
 
 +--------------------+-----------------------+-----------------------------------------------------------+--------------------------------------------------------------------+
 | Field Name         | Type                  | Description                                               | Example Data                                                       |
@@ -158,9 +158,9 @@ Meta Information
 
 .. _Disposition Information:
 
-Disposition Information
+Disposition information
 ^^^^^^^^^^^^^^^^^^^^^^^
-**Type Info**: `disposition`_
+**Type info**: `disposition`_
 
 +--------------------+-----------------------+-----------------------------------------------------+---------------------+
 | Field Name         | Type                  | Description                                         | Example Data        |
@@ -184,7 +184,7 @@ Disposition Information
 
 Email verification. Syntax, DNS, mailbox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Type Info**: `emailVerification`_
+**Type info**: `emailVerification`_
 
 +---------------------+------------------------+-----------------------------------------------------+---------------------+
 | Field Name          | Type                   | Description                                         | Example Data        |
@@ -332,9 +332,9 @@ Email verification. Syntax, DNS, mailbox
 
 .. Syntax Verification:
 
-Syntax Verification
+Syntax verification
 ^^^^^^^^^^^^^^^^^^^
-**Type Info**: `syntaxVerification`_
+**Type info**: `syntaxVerification`_
 
 +---------------------+------------------------+------------------------------------------------------------------------+---------------------+
 | Field Name          | Type                   | Description                                                            | Example Data        |
@@ -356,7 +356,7 @@ Syntax Verification
 
 .. Syntax Verification Reason Codes:
 
-Syntax Verification Reason Codes
+Syntax verification reason codes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 :None:
 	No status available.
@@ -426,9 +426,9 @@ Syntax Verification Reason Codes
 
 .. DNS Verification:
 
-DNS Verification
+DNS verification
 ^^^^^^^^^^^^^^^^
-**Type Info**: `dnsVerification`_
+**Type info**: `dnsVerification`_
 
 +----------------------+------------------------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | Field Name           | Type                   | Description                                         | Example Data                                                                                                              |
@@ -575,9 +575,9 @@ DNS Verification
 
 .. Mailbox Verification:
 
-Mailbox Verification
+Mailbox verification
 ^^^^^^^^^^^^^^^^^^^^
-**Type Info**: `mailboxVerification`_
+**Type info**: `mailboxVerification`_
 
 +---------------------+------------------------+-----------------------------------------------------+-----------------------+
 | Field Name          | Type                   | Description                                         | Example Data          |
@@ -599,7 +599,7 @@ Mailbox Verification
 
 .. _Primary Result Codes:
 
-Primary Result Codes
+Primary result codes
 ^^^^^^^^^^^^^^^^^^^^
 :None:
 	No status available.
@@ -620,7 +620,7 @@ Primary Result Codes
 
 .. _Secondary Reason Codes:
 
-Secondary Reason Codes
+Secondary reason codes
 ^^^^^^^^^^^^^^^^^^^^^^
 :None:
 	No additional information is available.
@@ -766,7 +766,7 @@ Secondary Reason Codes
 
 Infrastructure details for domain web and mail
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Type Info**: `infrastructure`_
+**Type info**: `infrastructure`_
 
 +---------------------+------------------------+-----------------------------------------------------+-----------------------+
 | Field Name          | Type                   | Description                                         | Example Data          |
@@ -794,9 +794,9 @@ Infrastructure details for domain web and mail
 
 .. Mail Infrastructure:
 
-Mail Infrastructure
+Mail infrastructure
 ^^^^^^^^^^^^^^^^^^^
-**Type Info**: `mailInfrastructure`_
+**Type info**: `mailInfrastructure`_
 
 +---------------------+------------------------+---------------------------------------------------------+-----------------------+
 | Field Name          | Type                   | Description                                             | Example Data          |
@@ -822,9 +822,9 @@ Mail Infrastructure
 
 .. Service Type Identifier:
 
-Service Type Identifier
+Service type identifier
 ^^^^^^^^^^^^^^^^^^^^^^^
-**Type Info**: `serviceTypeId`_
+**Type info**: `serviceTypeId`_
 
 :Other:
 	Service not of pre-defined list of known types.
@@ -859,9 +859,9 @@ Service Type Identifier
 
 .. Web Infrastructure:
 
-Web Infrastructure
+Web infrastructure
 ^^^^^^^^^^^^^^^^^^
-**Type Info**: `webInfrastructure`_
+**Type info**: `webInfrastructure`_
 
 Email Hippo performs a PING to establish whether a domain has a working web server / web site. A domain without a working website can be an indicator of low quality email domains.
 
@@ -882,9 +882,9 @@ Email Hippo performs a PING to establish whether a domain has a working web serv
 
 .. Send Assesment:
 
-Send Assesment
+Send sssesment
 ^^^^^^^^^^^^^^
-**Type Info**: `sendAssess`_
+**Type info**: `sendAssess`_
 
 Email Hippo performs an assesment of the risk associated with sending email to the email address queried. The overall score is based on a number of factors including:
 
@@ -904,7 +904,7 @@ Email Hippo performs an assesment of the risk associated with sending email to t
 
 .. Send Recommendation:
 
-Send Recommendation
+Send recommendation
 ^^^^^^^^^^^^^^^^^^^
 
 :None:
@@ -932,9 +932,9 @@ Send Recommendation
 
 .. Spam Assessment
 
-Spam Assessment
+Spam assessment
 ^^^^^^^^^^^^^^^
-**Type Info**: `spamAssess`_
+**Type info**: `spamAssess`_
 
 Email Hippo performs an assesment of the risk associated with receiving email from the address queried. The overall score is based on a number of factors from the table below.
 
@@ -993,7 +993,7 @@ Email Hippo performs an assesment of the risk associated with receiving email fr
 
 Blocklists
 ^^^^^^^^^^
-**Type Info**: List of `blockList`_
+**Type info**: List of `blockList`_
 
 Email Hippo includes references to third party spam block lists to enrich it's own email verification information.
 
@@ -1029,9 +1029,9 @@ Initially (on launch of v3), we include references to SpamHaus Domain Block List
 
 .. Spam Trap Assessment:
 
-Spam Trap Assessment
+Spam trap assessment
 ^^^^^^^^^^^^^^^^^^^^
-**Type Info**: List of `spamTrapAssess`_
+**Type info**: List of `spamTrapAssess`_
 
 Email Hippo maintains a list of known :term:`Spam Trap`.
 
@@ -1056,20 +1056,20 @@ Email Hippo maintains a list of known :term:`Spam Trap`.
 
 .. Hippo Trust:
 
-Hippo Trust
-^^^^^^^^^^^
-**Type Info**: List of `hippoTrust`_
+Email Hippo Trust Score
+^^^^^^^^^^^^^^^^^^^^^^^
+**Type info**: List of `hippoTrust`_
 
 For email verification and data enrichment performed to the 'More' level, Email Hippo supplies a Trust Score.
 
-**About Trust Score**
-Email Hippo created Trust Score to provide an 'at a glance' determination of quality from the point of view of drilling deeper than just the email address itself.
+**About the Email Hippo Trust Score**
+Email Hippo created the Trust Score to provide an 'at a glance' determination of quality from the point of view of drilling deeper than just the email address itself.
 
 Email Hippo Trust Score is designed to answer a fundamental question posed from the perspective of a business owner, merchant, data broker or lean generation service:
 
 *How much can I trust the person associated with this email address?*
 
-Trust Score takes dozens of metrics and signals into consideration when making this assesment and providing the final score.
+The Trust Score takes dozens of metrics and signals into consideration when making this assesment and providing the final score.
 
 +--------------------------+------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------+
 | Field Name               | Type                         | Description                                                           | Example Data                                        |
@@ -1081,9 +1081,9 @@ Trust Score takes dozens of metrics and signals into consideration when making t
 
 .. Hippo Trust Level:
 
-Hippo Trust Level
-^^^^^^^^^^^^^^^^^
-**Type Info**: `trustLevelType`_
+Trust Level
+^^^^^^^^^^^
+**Type info**: `trustLevelType`_
 
 :None:
 	No information on trust.
@@ -1110,9 +1110,9 @@ Hippo Trust Level
 	
 .. Social Information:
 
-Social Information
+Social information
 ^^^^^^^^^^^^^^^^^^
-**Type Info:** `social`_
+**Type info:** `social`_
 
 Email Hippo can provide social data. On initial launch of v3, Gravatar information is supplied.
 
@@ -1137,9 +1137,9 @@ Email Hippo can provide social data. On initial launch of v3, Gravatar informati
 	
 .. Performance Information:
 	
-Performance Information
+Performance information
 ^^^^^^^^^^^^^^^^^^^^^^^
-**Type Info:** `performance`_
+**Type info:** `performance`_
 
 Detailed performance metrics are provided for all queries. All timings are expressed in milliseconds.
 
@@ -1178,12 +1178,12 @@ Detailed performance metrics are provided for all queries. All timings are expre
 
 
 	
-Response Header
+Response header
 ---------------
 
 ..	_HTTP Status Codes:
 
-HTTP Status Codes
+HTTP status codes
 ^^^^^^^^^^^^^^^^^
 In additional to the application level codes (see `Primary Result Codes`_ and `Secondary Reason Codes`_)
 returned in the :term:`HTTP` message body, :term:`HTTP` status codes are returned in the :term:`HTTP` header.
