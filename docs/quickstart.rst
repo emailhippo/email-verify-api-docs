@@ -1,14 +1,14 @@
-.. _account: https://emh-register-user.azurewebsites.net/signup
+.. _account: https://register.emailhippo.com/signup
 .. _portal: https://portal.emailhippo.com
 
-Quick Start
+Quick start
 ===========
 
 This quick start guide is designed to get you up and running as fast as possible.
 
 Please follow the steps below in sequence:
 
-1) Create Account
+1) Create account
 -----------------
 Create your `account`_.
 
