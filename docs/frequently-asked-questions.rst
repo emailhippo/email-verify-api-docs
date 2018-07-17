@@ -1,10 +1,10 @@
-.. _Click here to signup: https://register.emailhippo.com
+.. _Click here to signup: https://register.emailhippo.com/signup
 .. _portal: https://portal.emailhippo.com
 .. _Email Hippo: https://www.emailhippo.com
 .. _CloudFlare: https://www.cloudflare.com/
 .. _Microsoft Azure: https://azure.microsoft.com
 
-Frequently Asked Questions
+Frequently asked questions
 ==========================
 
 Can I trust you with my data?
@@ -49,7 +49,7 @@ To deliver the speed and reliability demanded by our customers, verification res
  
 No personally identifiable information is stored in our cache infrastructure.
 
-Can I get My Usage in Real-Time?
+Can I get my usage in real-time?
 --------------------------------
 Yes. Please see :doc:`usage-report` for more information.
 
