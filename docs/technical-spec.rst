@@ -1,4 +1,4 @@
-Technical Specification
+Technical specification
 =======================
 
 ========================== ==================================
