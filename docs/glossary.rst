@@ -41,7 +41,7 @@ Glossary
 		Verifying email addresses in consumer domains is generally more 
 		technically challenging than :term:`B2B`
 	
-	Block List
+	Block list
 		See :term:`DNSBL`.
 	
 	BSON
@@ -97,7 +97,7 @@ Glossary
 		See `Wikipedia - Hypertext Transfer Protocol <https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol>`_ for 
 		more information.
 	
-	Grey Listing
+	Grey listing
 		A technique used in mail servers as an anti-spam technique.
 		Sometimes also known as \"deferred\", grey listing arbitrarily 
 		delays the delivery of emails with a \"try again later\" response 
@@ -116,7 +116,7 @@ Glossary
 		
 		See `Wikipedia - JSON <https://en.wikipedia.org/wiki/JSON>`_ for more information.
 		
-	License Key
+	License key
 		License key authentication is best for situations
 		where simplicity is required and you can keep the key private.
 		An ideal use case for key authentication would be for server 
@@ -146,10 +146,10 @@ Glossary
 		
 		See `Wikipedia - DNSBL <https://en.wikipedia.org/wiki/DNSBL>`_ for more information.
 		
-	Free Mail
+	Free mail
 		Addresses served by popular :term:`B2C` service providers such as Hotmail, Yahoo, Live, AOL, Gmail and so on.
 	
-	IP Address
+	IP address
 		**Internet Protocol** Address
 		
 		See `Wikipedia - IP Address <https://en.wikipedia.org/wiki/IP_address>`_ for more information.
@@ -207,7 +207,7 @@ Glossary
 		See `Wikipedia - Request for Comments <https://en.wikipedia.org/wiki/Request_for_Comments>`_ 
 		for further information.
 	
-	Role Address
+	Role address
 		A role address is a generic mailbox such as info@<domain>, sales@<domain> used by organizations to manage email messages of similar 
 		organizational types. For example, email messages sent to sales@<domain> can be routed to an organizations sales team where a team of sales 
 		people can deal with enquiries.
@@ -228,7 +228,7 @@ Glossary
 		software sending an email) and server (the software receiving an email) that facilitates
 		the sending and receiving of email between computer based email messaging systems.
 		
-	Spam Trap
+	Spam trap
 		Spam traps are email addresses used for the sole purpose of detecting spamming activities.
 		
 		Spam traps are used by many block lists (:term:`DNSBL`) to detect spammers.
