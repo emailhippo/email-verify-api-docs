@@ -4,13 +4,13 @@
 Features
 ========
 
-Confidence In Data Security
+Confidence in data security
 ---------------------------
 With ISO27001:2013 certification, robust technology and clearly defined policies and procedures, you can trust `Email Hippo`_ with your data.
 
 See :doc:`data-privacy` for more information.
 
-> 99.9% Service Availability
+> 99.9% Service availability
 ----------------------------
 
 Fully load balanced and automatic fail-over systems dispersed across 
@@ -18,7 +18,7 @@ multiple data centers in multiple regions deliver enterprise grade resilience.
 
 See :doc:`reliability` for more information on availability and :term:`SLA`.
 
-Multiple Response Formats
+Multiple response formats
 -------------------------
 Since Version 3 of our services, we set the bar higher for email address verification integration. Whilst most of our competitors 
 only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers more protocol options:
@@ -28,11 +28,11 @@ only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers m
  * :term:`BSON` (industry standard binary based interchange. Ideal for direct sorage in `mongoDB`_.)
  * :term:`protobuf` (Google standard for binary based interchange. Ideal for applications requiring low bandwidth and high performance.)
 
-Easy Integration
+Easy integration
 ----------------
 See :doc:`client-libraries` to see how quick and easy it is to integrate with our services from over 19 different technologies and platforms.
  
-Fanatical Service Quality Management (SQM)
+Fanatical service quality management (SQM)
 ------------------------------------------
 `Email Hippo`_ operational staff obsessively monitor services to 
 ensure the best possible uptime and coverage.
@@ -40,17 +40,17 @@ ensure the best possible uptime and coverage.
 Uptime and functional correctness is actively monitored on a minute by 
 minute basis from multiple data centers dispersed across North America, Europe and Asia.
 
-Fast, Transparent Response Times
+Fast, transparent response times
 --------------------------------
 Every query response includes stopwatch data that shows the time taken to execute the request.
 
-Proprietary Scoring and Risk Assessment
+Proprietary scoring and risk assessment
 ---------------------------------------
  * Send risk assessment scoring based on `Email Hippo`_ proprietary scoring heuristics :sup:`(new)`
  * Spam assessment and block-list risk scoring based on `Email Hippo`_ rules and 3rd party data sources including SpamHaus :sup:`(new)`
  * Overall risk scoring based on Email Hippo assessment of Send Risk combined with spam assessment :sup:`(new)`
 
-Multi Factor Verification and Data Enrichment
+Multi factor verification and data enrichment
 ---------------------------------------------
 Progressive verification using multiple verification processes including:
 
@@ -61,7 +61,7 @@ Progressive verification using multiple verification processes including:
  * Mailbox checking
  * Proprietary risk scoring including assessment of risks for receiving email from (spam), sending email to (send score) and overall risk assesment.
  
-Unrivalled Coverage
+Unrivalled coverage
 -------------------
 With more than 5 years experience and the benefit of owning our own 
 software stack, `Email Hippo`_ has evolved its services to provide good coverage not only of the easier :term:`B2B` 
@@ -71,12 +71,12 @@ domains but also the more technically challenging :term:`B2C` domains including:
  * AOL
  * Yandex
 
-Spam Trap Detection
+Spam trap detection
 -------------------
 After many years R&D, `Email Hippo`_ has developed technology  
 that can effectively identify any probable :term:`Spam Trap`.
 
-Disposable Email Address Detection
+Disposable email address detection
 ----------------------------------
 **Advanced Disposable Email Address Detection detection based on Email Hippo multi-vector real-time analysis.**
 
@@ -85,14 +85,14 @@ Features include:
  * Checking against static lists
  * Real-time detection of common :term:`DEA` providers obfuscation techniques (e.g. rotating domains, IP addresses and MX servers)
 
-Gibberish Detection
+Gibberish detection
 -------------------
 A common vector for persons wishing to remain anonymous is to register or use a pre-existing domain. Finding an available domain is not easy and as such, many 
 (unwilling to put the effort in to finding a decent domain) instead opt for a \'Gibberish\' domain such as \`sdfre45321qaxc.com\`.
 
 `Email Hippo`_ detects gibberish in both the user and domain elements of an email address.
 
-Unrivalled Performance
+Unrivalled performance
 ----------------------
 Strategic data centers in Europe, aggressive 
 caching, global network delivery optimization and cloud based auto-scaling deliver outstanding performance. 
@@ -100,12 +100,12 @@ Typical queries are answered between 0.2 to 1.5 seconds.
 
 .. note:: See :doc:`technical-spec`
 
-On Screen Reporting
+On screen reporting
 -------------------
 Every account comes with a secure on-line portal for customers to 
 view their current and historic usage via simple but powerful, user friendly charts and reports.
 
-Thoughtful Versioning
+Thoughtful versioning
 ---------------------
 Endpoints are \"versioned\". This means that `Email Hippo`_ 
 can continue to release new functionality without \"breaking\" 
