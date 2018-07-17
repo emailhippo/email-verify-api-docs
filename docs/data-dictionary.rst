@@ -1081,7 +1081,7 @@ The Trust Score takes dozens of metrics and signals into consideration when maki
 
 .. Hippo Trust Level:
 
-Trust Level
+Trust level
 ^^^^^^^^^^^
 **Type info**: `trustLevelType`_
 
