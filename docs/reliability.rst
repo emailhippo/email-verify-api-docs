@@ -1,7 +1,7 @@
 .. _Pingdom : http://api-stats.emailhippo.com
 .. _Service Level Agreement: http://www.emailhippo.com/en-US/terms
 	
-Service Reliability
+Service reliability
 ===================
 
 Reliability of your systems is important to you and your clients. You can be sure that we won't let you down when you use our services in 
@@ -10,7 +10,7 @@ your business applications.
 By using the latest, distributed cloud based systems, we give deliver fast response times together with 
 enterprise grade uptime of more than 99.9%.
 
-About Our Infrastructure
+About our infrastructure
 ------------------------
 We operate three data centers geographically dispersed as follows:
 
@@ -22,17 +22,17 @@ Data centers provide automatic fail over to another working data center.
 
 Network traffic is optimized for fast, reliable global delivery using Cloudflare Argo.
 
-Service Level Agreement
+Service level agreement
 -----------------------
 Our :term:`API` has a stated :term:`SLA` that ensures that we provide you with more than 99.9% uptime for our services.
 
 Download our full `Service Level Agreement`_ for further infomation.
 
-Real Time Monitoring
+Real time monitoring
 ====================
 We use a third party service to monitor all of our endpoints for availability, function and response times.
 
-Live Uptime Report
+Live uptime report
 ------------------
 Report shows functional requests. Functional requests are queries containing real email addresses for validation.
 
@@ -41,7 +41,7 @@ Report shows functional requests. Functional requests are queries containing rea
 	<a href="https://share.pingdom.com/banners/20682b4b" target="_blank"><img src="https://share.pingdom.com/banners/20682b4b" alt="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" title="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" width="300" height="165" /></a>
 
 
-Live Response Time Report
+Live response time report
 -------------------------
 Report shows response times from the functional :term:`API` endpoint.
 	
@@ -49,6 +49,6 @@ Report shows response times from the functional :term:`API` endpoint.
 	
 	<a href="https://share.pingdom.com/banners/afa11fdf" target="_blank"><img src="https://share.pingdom.com/banners/afa11fdf" alt="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" title="Uptime Report for Email Hippo (v3.x / 'More') REST API - Function: Last 30 days" width="300" height="165" /></a>
 
-Full Monitoring Statistics
+Full monitoring statistics
 --------------------------
 See our `Pingdom`_ site for more information.
