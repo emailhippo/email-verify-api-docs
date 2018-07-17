@@ -1,4 +1,4 @@
-Email Verification API - Documentation
+Email verification API - Documentation
 ======================================
 This is the home for our documentation.
 
