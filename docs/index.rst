@@ -16,8 +16,8 @@
 
 
 
-	**email address validation and data enrichment services**
-
+	Email address validation and data enrichment services
+        *****************************************************
 	
 Email Hippo \'More\' documentation
 **********************************
@@ -58,7 +58,8 @@ Data privacy
 	data-privacy	
 
 Latest uptime statistics
-========================
+------------------------
+
 Live uptime report
 ------------------
 Report shows functional requests. Functional requests are queries containing real email addresses for validation.
@@ -169,7 +170,7 @@ Glossary
 	glossary
    
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
