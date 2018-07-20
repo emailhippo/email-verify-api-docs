@@ -53,7 +53,7 @@ Compliance
 
 .. 	toctree::
 	:maxdepth: 2
-[Link to Compliance](/data-privacy.rst)
+[Link to Compliance](/data-privacy)
 	data-privacy	
 
 Latest uptime statistics
