@@ -20,8 +20,7 @@ See :doc:`reliability` for more information on availability and :term:`SLA`.
 
 Multiple response formats
 -------------------------
-Since Version 3 of our services, we set the bar higher for email address verification integration. Whilst most of our competitors 
-only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers more protocol options:
+Since Version 3 of  `Email Hippo`_'s services, it has set the bar higher for email address verification integration. Whilst most of `Email Hippo`_'s competitors only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers more protocol options:
 
  * :term:`JSON` (industry standard modern text based interchange.)
  * :term:`XML` (industry standard legacy text based interchange. Great for interop with older systems.)
@@ -30,15 +29,13 @@ only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers m
 
 Easy integration
 ----------------
-See :doc:`client-libraries` to see how quick and easy it is to integrate with our services from over 19 different technologies and platforms.
+See :doc:`client-libraries` to see how quick and easy it is to integrate with `Email Hippo`_'s services from over 19 different technologies and platforms.
  
 Fanatical service quality management (SQM)
 ------------------------------------------
-`Email Hippo`_ operational staff obsessively monitor services to 
-ensure the best possible uptime and coverage.
+`Email Hippo`_'s operational staff obsessively monitor services to ensure the best possible uptime and coverage.
 
-Uptime and functional correctness is actively monitored on a minute by 
-minute basis from multiple data centers dispersed across North America, Europe and Asia.
+Uptime and functional correctness is actively monitored on a minute by minute basis from multiple data centers dispersed across North America, Europe and Asia.
 
 Fast, transparent response times
 --------------------------------
@@ -63,18 +60,17 @@ Progressive verification using multiple verification processes including:
  
 Unrivalled coverage
 -------------------
-With more than 5 years experience and the benefit of owning our own 
-software stack, `Email Hippo`_ has evolved its services to provide good coverage not only of the easier :term:`B2B` 
-domains but also the more technically challenging :term:`B2C` domains including:
+`Email Hippo`_ leverages the advantages of its scalable infrastructure to provide coverage of domains that are technically challenging. Consumer facing domains tend to be more challenging to cover then business facing domains :term:`B2C` domains including:
 
  * Hotmail
+ * Yahoo
+ * Office 365
  * AOL
  * Yandex
 
 Spam trap detection
 -------------------
-After many years R&D, `Email Hippo`_ has developed technology  
-that can effectively identify any probable :term:`Spam Trap`.
+After many years R&D, `Email Hippo`_ has developed technology that can effectively identify any probable :term:`Spam Trap`.
 
 Disposable email address detection
 ----------------------------------
@@ -87,38 +83,31 @@ Features include:
 
 Gibberish detection
 -------------------
-A common vector for persons wishing to remain anonymous is to register or use a pre-existing domain. Finding an available domain is not easy and as such, many 
-(unwilling to put the effort in to finding a decent domain) instead opt for a \'Gibberish\' domain such as \`sdfre45321qaxc.com\`.
+A common vector for persons wishing to remain anonymous is to register or use a pre-existing domain. Finding an available domain is not easy and as such, many (unwilling to put the effort in to finding a decent domain) instead opt for a \'Gibberish\' domain such as \`sdfre45321qaxc.com\`.
 
 `Email Hippo`_ detects gibberish in both the user and domain elements of an email address.
 
 Unrivalled performance
 ----------------------
-Strategic data centers in Europe, aggressive 
-caching, global network delivery optimization and cloud based auto-scaling deliver outstanding performance. 
-Typical queries are answered between 0.2 to 1.5 seconds.
+Strategic data centers in Europe, aggressive caching, global network delivery optimization and cloud based auto-scaling deliver outstanding performance. 
+Typical queries are answered between 0.2 to 1.0 seconds.
 
 .. note:: See :doc:`technical-spec`
 
 On screen reporting
 -------------------
-Every account comes with a secure on-line portal for customers to 
-view their current and historic usage via simple but powerful, user friendly charts and reports.
+Every account comes with a secure on-line portal for customers to view their current and historic usage via simple but powerful, user friendly charts and reports.
 
 Thoughtful versioning
 ---------------------
-Endpoints are \"versioned\". This means that `Email Hippo`_ 
-can continue to release new functionality without \"breaking\" 
-existing clients committed to integrating with our systems on legacy endpoints.
+Endpoints are \"versioned\". This means that `Email Hippo`_ can continue to release new functionality without \"breaking\" existing client integrations which use legacy endpoints.
 
 What it does
 ------------
 `Email Hippo`_ is used to check email addresses in real-time. 
-Not only are syntax and domain checked, but that the user mailbox 
-is available too. This is the only way to know for sure if an email address is valid.
+Not only are syntax and domain checked, but that the user mailbox is available too. This is the only way to know for sure if an email address is valid.
 
-Additionally identified as part of the email verification process 
-is extra information including:
+Additionally identified as part of the email verification process is extra information including:
 
 * :term:`DEA`.
 * :term:`Spam Trap`.
@@ -126,8 +115,7 @@ is extra information including:
 How it works
 ------------
 Email addresses are verified using various filters and processes. 
-As a high level overview, an email address submitted for verification 
-goes thorough the following filters:
+As a high level overview, an email address submitted for verification goes thorough the following filters:
 
 Syntax
 	A basic inspection of the syntax of the email address to see 
