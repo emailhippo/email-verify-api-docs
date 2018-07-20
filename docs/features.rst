@@ -25,7 +25,7 @@ only offer :term:`JSON`, `Email Hippo`_ goes further with giving our customers m
 
  * :term:`JSON` (industry standard modern text based interchange.)
  * :term:`XML` (industry standard legacy text based interchange. Great for interop with older systems.)
- * :term:`BSON` (industry standard binary based interchange. Ideal for direct sorage in `mongoDB`_.)
+ * :term:`BSON` (industry standard binary based interchange. Ideal for direct storage in `mongoDB`_.)
  * :term:`protobuf` (Google standard for binary based interchange. Ideal for applications requiring low bandwidth and high performance.)
 
 Easy integration
