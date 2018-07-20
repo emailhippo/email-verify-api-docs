@@ -6,7 +6,7 @@
 Compliance
 ==========
 
-We're BIG on security
+We're BIG on security.
 
 If you are using the Email Hippo More API you need to be confident that your data is safe and that the processing is secure. Email Hippo security processes are accredited to the ISO 27001 standard; the highest independently assessed standard that is internationally recognised.
 
