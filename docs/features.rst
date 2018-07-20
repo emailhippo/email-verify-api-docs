@@ -70,11 +70,11 @@ Unrivalled coverage
 
 Spam trap detection
 -------------------
-After many years R&D, `Email Hippo`_ has developed technology that can effectively identify any probable :term:`Spam Trap`.
+`Email Hippo`_ has developed technology that can effectively identify any probable :term:`Spam Trap`.
 
 Disposable email address detection
 ----------------------------------
-**Advanced Disposable Email Address Detection detection based on Email Hippo multi-vector real-time analysis.**
+**Advanced disposable email address detection based on `Email Hippo`_'s multi-vector real-time analysis.**
 
 Features include:
 
@@ -83,7 +83,7 @@ Features include:
 
 Gibberish detection
 -------------------
-A common vector for persons wishing to remain anonymous is to register or use a pre-existing domain. Finding an available domain is not easy and as such, many (unwilling to put the effort in to finding a decent domain) instead opt for a \'Gibberish\' domain such as \`sdfre45321qaxc.com\`.
+A common vector for persons wishing to remain anonymous is to register or use a pre-existing domain. Finding an available domain is not easy and as such, many opt for a \'Gibberish\' domain such as \`sdfre45321qaxc.com\`.
 
 `Email Hippo`_ detects gibberish in both the user and domain elements of an email address.
 
@@ -96,7 +96,7 @@ Typical queries are answered between 0.2 to 1.0 seconds.
 
 On screen reporting
 -------------------
-Every account comes with a secure on-line portal for customers to view their current and historic usage via simple but powerful, user friendly charts and reports.
+Every account comes with a secure on-line portal for customers to view their current and historic usage via simple but powerful, user-friendly charts and reports.
 
 Thoughtful versioning
 ---------------------
@@ -109,7 +109,7 @@ Not only are syntax and domain checked, but that the user mailbox is available t
 
 Additionally identified as part of the email verification process is extra information including:
 
-* :term:`DEA`.
+* :term:`DEA` Disposable Email Address.
 * :term:`Spam Trap`.
 
 How it works
