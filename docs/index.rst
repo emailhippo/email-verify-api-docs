@@ -48,8 +48,8 @@ Quick start
 
 	quickstart
 	
-Data privacy
-------------
+Compliance
+----------
 
 .. 	toctree::
 	:maxdepth: 2
