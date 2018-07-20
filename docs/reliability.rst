@@ -1,5 +1,5 @@
 .. _Pingdom : http://api-stats.emailhippo.com
-.. _Service Level Agreement: http://www.emailhippo.com/en-US/terms
+.. _Terms of Service: http://www.emailhippo.com/terms-of-service
 	
 Service reliability
 ===================
@@ -26,7 +26,7 @@ Service level agreement
 -----------------------
 Our :term:`API` has a stated :term:`SLA` that ensures that we provide you with more than 99.9% uptime for our services.
 
-Download our full `Service Level Agreement`_ for further infomation.
+Read our terms of service for more information - `Terms of Service`_.
 
 Real time monitoring
 ====================
