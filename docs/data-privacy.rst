@@ -3,9 +3,11 @@
 .. _Terms of service: https://www.emailhippo.com/terms-of-service/
 .. _Cookie policy: https://www.emailhippo.com/cookie-policy/
 
+Compliance
+==========
 
 We're BIG on security
-=====================
+
 If you are using the Email Hippo More API you need to be confident that your data is safe and that the processing is secure. Email Hippo security processes are accredited to the ISO 27001 standard; the highest independently assessed standard that is internationally recognised.
 
 In addition to our stringent security processes, it is relevant to note: 
