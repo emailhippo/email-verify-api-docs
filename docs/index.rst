@@ -7,7 +7,7 @@
 .. _Google+: https://plus.google.com/+EmailhippoWorldWide
 .. _LinkedIn: https://www.linkedin.com/company/email-hippo-ltd
 
-.. figure:: https://d1wiejlotg3vr4.cloudfront.net/bizbranding/co.logos/eh-more-horiz-668x285.png
+.. figure:: https://d1wiejlotg3vr4.cloudfront.net/bizbranding/co.logos/eh-more-horiz-668x285-(2).png
 	:height: 285px
 	:width: 668px
 	:scale: 100%
