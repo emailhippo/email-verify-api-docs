@@ -637,8 +637,7 @@ Secondary reason codes
 	The domain (i.e. the bit after the '@' character) defined in the email address
 	does not exist, according to :term:`DNS` records.
 
-	A domain that does not exist cannot have email boxes. A domain that does not
-	exist cannot have email boxes.
+	A domain that does not exist cannot have email boxes.
 
 :DomainIsWellKnownDea:
 	The domain is a well known Disposable Email Address :term:`DEA`.
@@ -675,8 +674,6 @@ Secondary reason codes
 	100% confidence that the mail box does not exist.
 
 :MailServerFaultDetected:
-	Unspecified mail server fault detected.
-	
 	An unspecified mail server fault was detected.
 	
 :NoMxServersFound:
