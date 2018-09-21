@@ -7,7 +7,7 @@ To preserve the operational integrity of the service to all of our customers, th
 
 Limits
 ------
-Allowed throughput is **50 email verifications per second**. 
+Allowed throughput is **140 email verifications per second**. 
 
 Throughput exceeding these limits will receive HTTP response code 429 (too many request) for subsequent requests for a duration of one minute.
 
