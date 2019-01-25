@@ -622,6 +622,52 @@ Primary result codes
 
 Secondary reason codes
 ^^^^^^^^^^^^^^^^^^^^^^
+
+
+**Primary result codes with their possible secondary reason codes**
+
+:Ok:
+  Success
+
+:Bad:
+  AtSignNotFound
+
+  DomainIsInexistent
+
+  MailboxFull
+
+  MailboxDoesNotExist
+
+  MailServerFaultDetected
+
+  NoMxServersFound
+
+  ServerDoesNotSupportInternationalMailboxes
+
+  TooManyAtSignsFound
+
+  PossibleSpamTrapDetected
+
+:RetryLater:
+  TransientNetworkFault
+
+:Unverifiable:
+  None
+
+  DomainIsWellKnownDea
+
+  GreyListing
+
+  ServerIsCatchAll
+
+  Unknown
+
+  UpredictableSystem
+
+
+**Secondary reason code definitions**
+
+
 :None:
 	No additional information is available.
 
