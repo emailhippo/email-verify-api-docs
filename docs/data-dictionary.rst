@@ -79,7 +79,7 @@ Reponses are complex types. The table below shows the root fields.
 +--------------------+-----------------------+----------------------------------------------------+---------------------+
 | spamTrapAssess     | `spamTrapAssess`_     | `Spam Trap Assessment`_                            | see demo            |
 +--------------------+-----------------------+----------------------------------------------------+---------------------+
-| hippoTrust         | `hippoTrust`_         | `Hippo Trust`_                                     | 2.0                 |
+| hippoTrust         | `hippoTrust`_         | `Email Hippo Trust Score`_                         | 2.0                 |
 +--------------------+-----------------------+----------------------------------------------------+---------------------+
 | social             | `social`_             | `Social Information`_.                             | see demo            |
 +--------------------+-----------------------+----------------------------------------------------+---------------------+
@@ -926,7 +926,7 @@ Email Hippo performs a PING to establish whether a domain has a working web serv
 .. Send Assesment:
 
 Send assessment
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 **Type info**: `sendAssess`_
 
 Email Hippo performs an assessment of the risk associated with sending email to the email address queried. The overall score is based on a number of factors including:
@@ -1119,7 +1119,7 @@ The Trust Score takes dozens of metrics and signals into consideration when maki
 +==========================+==============================+=======================================================================+=====================================================+
 | score                    | decimal                      | *How much can I trust the person associated with this email address?* | 0.1                                                 |
 +--------------------------+------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------+
-| level                    | `trustLevelType`_            | `Hippo Trust Level`_.                                                 | "Low"                                               |
+| level                    | `trustLevelType`_            | `Trust level`_.                                                       | "Low"                                               |
 +--------------------------+------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------+
 
 .. Hippo Trust Level:
