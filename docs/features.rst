@@ -10,7 +10,7 @@ With ISO27001:2013 certification, robust technology and clearly defined policies
 
 See :doc:`data-privacy` for more information.
 
-> 99.9% Service availability
+> 99.99% Service availability
 ----------------------------
 
 Fully load balanced and automatic fail-over systems dispersed across 
